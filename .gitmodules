@@ -1,0 +1,3 @@
+[submodule "configurations"]
+	path = configurations
+	url = https://github.com/OthmanBentir/configurations.git
